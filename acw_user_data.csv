@@ -1,0 +1,21 @@
+first_name,last_name,age,dependants,marital_status,employer,retired,salary,commute_distance,address,city,postcode,car_make,car_model,car_year,car_type,cc_start_date,cc_end_date,cc_number,cc_security_code,cc_iban
+David,Evans,31,2,Single,TechCorp,FALSE,41441,15,253 Main St,Miami,69937,Chevy,Escape,2005,SUV,17-Oct,Nov-33,8.47739E+15,405,DE12500105170648489890
+Olivia,Adams,43,,Divorced,CleanEnergy,FALSE,71897,11,219 Sunset Blvd,Miami,10000,Ford,Bolt,2019,Hatchback,10-Jul,30-Mar,5.80902E+15,699,US64SVBKUS6S3300958879
+Emma,Doe,48,2,Divorced,,TRUE,65881,14,319 Elm St,Miami,87315,Honda,Camry,2011,Electric,17-Jul,Aug-33,2.12588E+15,706,GB29NWBK60161331926819
+Emma,Smith,36,1,Divorced,HealthSys,FALSE,53169,7,299 Main St,New York,58509,Honda,Accord,2020,Electric,19-Dec,Jul-32,2.16358E+15,248,FR7630006000011234567890189
+Sarah,Evans,74,0,Divorced,CleanEnergy,FALSE,54580,5,260 Elm St,Miami,59004,Honda,Model 3,2009,Sedan,17-Jan,26-May,7.73353E+15,266,US64SVBKUS6S3300958879
+Jane,Lewis,31,,Widowed,DataSolutions,FALSE,46200,9,915 Park Ave,New York,14298,Honda,Accord,2010,SUV,11-Dec,26-Oct,4.30306E+15,847,GB29NWBK60161331926819
+John,Hall,32,0,Single,TechCorp,FALSE,91135,18,61 Sunset Blvd,New York,79899,Toyota,Escape,2018,Electric,13-Feb,31-Jan,9.78216E+15,125,DE12500105170648489890
+David,Evans,47,1,Divorced,TechCorp,FALSE,43889,12,840 Elm St,Chicago,19775,Honda,Model 3,2013,Sedan,13-Mar,27-Sep,1.18524E+15,184,DE89370400440532013000
+John,Evans,33,1,Divorced,CleanEnergy,FALSE,117468,9,321 Elm St,Austin,78967,Honda,Camry,2012,Electric,17-May,27-Sep,6.86453E+15,172,DE12500105170648489890
+Alice,Evans,59, ,Married,HealthSys,FALSE,104616,16,163 Park Ave,Miami,76434,Toyota,Accord,2016,SUV,11-May,Sep-34,9.00764E+15,675,GB29NWBK60161331926819
+Alice,Doe,57, ,Single,CleanEnergy,FALSE,69335,7,907 Main St,Austin,68829,Tesla,Bolt,2017,Hatchback,10-Aug,Sep-31,9.53032E+15,828,US64SVBKUS6S3300958879
+John,Smith,49, ,Single,TechCorp,FALSE,118462,1,215 Park Ave,Los Angeles,16176,Chevy,Accord,2008,Electric,18-Aug,Feb-30,4.72944E+15,517,DE89370400440532013000
+Emma,Brown,71,,Married,,TRUE,90963,6,493 Ocean Dr,Miami,37612,Ford,Accord,2022,Sedan,17-May,25-May,9.62526E+15,179,DE12500105170648489890
+Liam,Evans,23,0,Single,TechCorp,FALSE,106051,16,326 Main St,Austin,84226,Chevy,Camry,2011,Sedan,19-Dec,31-Jan,5.90614E+15,938,US64SVBKUS6S3300958879
+Liam,Clark,65, ,Married,DataSolutions,FALSE,54252,15,989 Elm St,Los Angeles,20340,Ford,Accord,2011,SUV,14-Aug,Nov-34,2.73628E+15,726,US64SVBKUS6S3300958879
+Alice,Evans,48,1,Single,DataSolutions,FALSE,70180,0,786 Main St,New York,77355,Ford,Accord,2017,SUV,13-Nov,29-Dec,1.15091E+15,293,US64SVBKUS6S3300958879
+Emma,Evans,58,2,Widowed,TechCorp,FALSE,42247,11,318 Sunset Blvd,New York,50840,Tesla,Model 3,2015,Electric,13-Jan,26-Sep,3.65103E+15,880,DE89370400440532013000
+Liam,Wong,23, ,Single,DataSolutions,FALSE,108958,11,300 Park Ave,Miami,16560,Honda,Model 3,2009,Sedan,16-May,Jul-34,5.502E+15,394,GB29NWBK60161331926819
+Olivia,Doe,67,2,Divorced,,TRUE,45894,2,402 Elm St,New York,98569,Ford,Escape,2009,Sedan,15-Aug,30-Apr,1.66277E+15,669,FR7630006000011234567890189
+Liam,Lewis,26,0,Widowed,,TRUE,36768,19,396 Elm St,Austin,23507,Ford,Camry,2011,SUV,17-Jul,29-Mar,5.67493E+15,664,US64SVBKUS6S3300958879
